@@ -1,0 +1,11 @@
+Code References: 
+
+https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd
+
+https://www.kaggle.com/hiranyakudva/predict-who-will-leave-us-soon
+
+https://www.kaggle.com/uciml/adult-census-income/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R&outputType=all&datasetId=225&isMixedPrivacyLayout=true&startRow=0
+
+https://www.kaggle.com/jiashenliu/who-can-earn-more-than-50k-per-year
+
+https://stackoverflow.com
