@@ -1,9 +1,9 @@
 
-1: Project required two csv files adult.csv and HR.csv. Both the files are uploaded in the zip file.
+1: Project required two csv files adult.csv and HR.csv.
 
 2: To run the project, just keep both the CSV files and project code in the same directory. 
    
-3: The project needs write permission in the directory where project code is kept. The Project will write two CSV files that contain    SMOTE function output. These files will be referred by h2o package for boosting algorithm. 
+3: The project needs write permission in the directory where project code is kept. The Project will write two CSV files that contain SMOTE function output. These files will be referred by h2o package for boosting algorithm. 
  
 4: The project will check if the package is available or not and will install if its missing before referring.
 
