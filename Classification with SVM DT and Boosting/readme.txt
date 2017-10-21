@@ -22,4 +22,4 @@ library(h2o)
 
 6. The project will print the output as well as operation its performing as a status in console. It will take approx. 35 min to complete.
 
-7. Project report is Report.docx file
+7. Project report is Project_Report.pdf file
