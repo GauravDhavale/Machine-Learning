@@ -6,6 +6,7 @@ Please clear the environment variable before running the code in case if re runn
 
 
 Initial data preparation for both the dataset
+
 Task 1: 
 K-means clustering for Occupancy dataset
 K-means clustering for Attrition dataset 
