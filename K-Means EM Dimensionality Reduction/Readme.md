@@ -1,3 +1,9 @@
+##Employee Attrition Analysis and Occupancy Detection using K-means, Expectation Maximization with dimensionality reduction
+
+Both the dataset files are uploaded in the file along code file and report file. 
+
+Please clear the environment variable before running the code in case if re running the code.
+
 
 Initial data preparation for both the dataset
 Task 1: 
