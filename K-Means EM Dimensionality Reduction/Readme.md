@@ -1,4 +1,4 @@
-##Employee Attrition Analysis and Occupancy Detection using K-means, Expectation Maximization with dimensionality reduction
+## Employee Attrition Analysis and Occupancy Detection using K-means, Expectation Maximization with dimensionality reduction
 
 Both the dataset files are uploaded in the file along code file and report file. 
 
